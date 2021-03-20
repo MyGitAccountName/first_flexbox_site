@@ -5,13 +5,18 @@
     src: url("../fonts/19281.otf");
 }
 
+@font-face {
+    font-family: "president";
+    src: url("../fonts/president-cyr.ttf");
+}
+
 * {
     box-sizing: border-box;
 }
 
 body {
     margin: 0;
-    font-family: 'Mak-Light', 'Ravi Prakash', Arial, sans-serif;
+    font-family: 'president','Mak-Light', Arial, sans-serif;
 }
 
 
